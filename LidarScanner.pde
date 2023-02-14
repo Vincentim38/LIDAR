@@ -1,5 +1,5 @@
 // LidarScanner.pde Processing sketch
-// http://www.qcontinuum.org/lidar
+// https://www.qcontinuum.org/lidar-scanner
 
 // Load sketch into Processing, available from:
 // https://processing.org/
